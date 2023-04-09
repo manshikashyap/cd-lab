@@ -1,0 +1,137 @@
+Experiment
+No-1:
+
+Introduction to file handling & tokenizing file
+contents
+
+a)      Write a C Program to Scan and Count the number of characters, words, and lines in a file.
+
+b)      Write a C program to read names
+and marks of n number of students from users and store them in a file.
+
+c)      Write a C Program Delete a
+specific Line from a Text File.
+
+d)      Write a C Program copy
+content from one file to another.
+
+e)      Write a C program to detect tokens
+in a C program.
+
+f)       Write a C program to delete/ drop
+specific words from one file (say source.txt). Which words will be deleted it
+will be mentioned in a separate file (say drop.txt). Generate report file (
+say report.txt) to display word wise 
+how many match found.
+
+ 
+
+
+
+Experiment
+No-2:
+
+Design a lexical analyzer for given
+language and the lexical analyzer should ignore redundant spaces, tabs and
+new lines. It should also ignore comments. Although the syntax specification
+states that identifiers can be arbitrarily long, you may restrict the length
+to some reasonable value. Simulate the same in C language. After lexical
+analysis separate file for each type of tokens will be created.
+
+
+
+
+Experiment
+No-3:
+
+Write
+a program to take C program as input and identify all types comment line
+inside the program.  After identifying
+all types of comment line it’s needs to be written back to a separate file.
+
+
+
+
+Experiment
+No-4 :
+
+Implement the lexical analyzer using
+JLex, flex or other lexical
+
+analyzer generating tools.
+
+
+
+ Experiment
+No-5:
+
+Write a C program to simulate lexical
+analyzer for validating
+
+operators.
+
+
+
+
+Experiment
+No-6:
+
+Write a C program to recognize strings
+under 'a*', 'a*b+', 'abb'
+
+ 
+
+Experiment
+No-7:
+
+Using JFLAP, create
+a DFA from a given regular expression
+
+
+
+
+Experiment
+No -8:
+
+Study of  YACC Tool
+
+
+
+
+Experiment
+No-9:
+
+Write a C program
+for constructing of LALR Bottom-up parsing.
+
+
+
+
+Experiment
+No-10:
+
+Write a C program to
+implement shift reduce parser.
+
+
+
+
+Experiment
+No-11:
+
+Write a C program to
+implement operator precedence parsing
+
+or
+
+ Write a C program for constructing of
+recursive descent parsing.
+
+
+
+
+Experiment
+No-12:
+
+Write a C program
+for constructing of LL (1) parsing.
